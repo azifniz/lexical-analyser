@@ -1,9 +1,4 @@
 /*
-NAME : Azif Nizam
-BATCH : 25021A
-REG NO : 25021A_008 
-DATE : 17-12-2025
-
 PROJECT NAME : LEXICAL ANALYSER
 DESCRIPTION : A command-line application developed in C that performs lexical analysis (tokenization) 
               of C source files. The program scans an input .c file and extracts tokens such as keywords,
