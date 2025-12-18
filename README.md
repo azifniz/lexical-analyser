@@ -1,5 +1,7 @@
 # Lexical Analyser
 
+A command-line lexical analyser developed in C that scans C source files and tokenizes them into keywords, identifiers, constants, operators, and special characters. The project includes robust file handling, character-level parsing, and error detection for invalid tokens and malformed literals, demonstrating low-level compiler design fundamentals and modular system programming.
+
 ---
 ## ✨ Features
 - **Lexical Analysis of C Source Files** – Scans C source code and breaks it into meaningful tokens
